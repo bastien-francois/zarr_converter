@@ -10,7 +10,7 @@ netcdf_folder = "/ec/res4/scratch/ecme5801/dowa2013"
 frequency = 3
 nth_point = 1
 fill_missing = False #whether to fill missing time steps with previous time step, or to skip if False
-
+#
 start_time = {
     "year": 2013,
     "month": 1,
